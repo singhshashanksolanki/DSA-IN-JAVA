@@ -1,12 +1,12 @@
 package OOPS.inheritance;
 
-class Shape {
+class Shape3 {
     public void area() {
         System.out.println("Displays Area");
     }
 }
 
-class Triable extends Shape {
+class Triangle3 extends Shape3 {
     public void area(int b, int h) {
         System.out.println(1 / 2 * b * h);
     }
