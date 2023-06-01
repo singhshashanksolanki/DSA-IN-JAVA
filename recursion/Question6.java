@@ -1,6 +1,6 @@
 package recursion;
 
-// Print x^n (stach height = logn)
+// Print x^n (stack height = logn)
 
 public class Question6 {
 
